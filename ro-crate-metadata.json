@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-08-24T10:48:34.035879",
+            "datePublished": "2026-08-31T12:33:53.777942",
             "hasPart": [
                 {
                     "@id": "mgnify-amplicon-pipeline-v5-quality-control-paired-end.ga"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/mgnify-amplicon-pipeline-v5-quality-control-paired-end",
-            "version": "0.6"
+            "version": "0.7"
         },
         {
             "@id": "#galaxy",
